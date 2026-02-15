@@ -1,8 +1,8 @@
-# LSAT-Wrong-Answer-Analyzer
+# TEST-Wrong-Answer-Analyzer
 
 ## TEMP
  General Usage:
- - Input place for lsat question stimulus (LR for now, do RC questions with a different layout maybe later)
+ - Input place for question
  - input place for Question stem and answer choices
  - input place for users selected answer
  - input place for correct answer (optional)
